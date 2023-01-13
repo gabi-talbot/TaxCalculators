@@ -1,5 +1,5 @@
 # TaxCalculators
-## To calculate UK tax on employees salaries in different financial years
+## To calculate UK tax on employee salaries in different financial years
 
 The project has been created in Java using **OOP principles**: 
 
