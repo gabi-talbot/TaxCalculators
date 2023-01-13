@@ -1,7 +1,7 @@
 # TaxCalculators
 ## To calculate UK tax on employees salaries in different financial years
 
-The project has been created using **OOP principles**: 
+The project has been created in Java using **OOP principles**: 
 
 * Encapsulation - every class has a single responsibility
 * Abstraction - unnecessary details, such as direct access to employee salary, are hidden from the user
